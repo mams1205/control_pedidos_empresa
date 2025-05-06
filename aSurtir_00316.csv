@@ -1,0 +1,397 @@
+Folio,Origen,SKU,Descripcion,Cantidad,Stock Min
+316,WEB,AC10139   ,TETERA TOKIO CIELO                                                                                  ,1.0,0.0
+316,WEB,AC11011   ,VASO TE SPORT MORADO DE 600 ML.                                                                     ,1.0,0.0
+316,WEB,AC11012   ,VASO TE SPORT GRIS DE 600 ML.                                                                       ,1.0,0.0
+316,WEB,AC11015   ,TERMO MUEVE-TE GRIS DE 400 ML.                                                                      ,1.0,0.0
+316,WEB,AC13035   ,TARRO CON INFUSOR BELLOTA                                                                           ,1.0,0.0
+316,WEB,AC13036   ,TAZA CON INFUSOR BOLITA                                                                             ,1.0,0.0
+316,WEB,AC13038   ,TARRO CILINDRO C/INF. ACERO ASA AMARILLO                                                            ,1.0,0.0
+316,WEB,AC13043   ,TAZA DE VIDRIO 300 ML                                                                               ,24.0,0.0
+316,WEB,AC14004   ,CUCHARA MEDIDORA                                                                                    ,2.0,2.0
+316,WEB,AC15026   ,PINZA BOLA RED                                                                                      ,4.0,2.0
+316,WEB,AC15078   ,INFUSOR TETERITA AZUL                                                                               ,1.0,0.0
+316,WEB,MR20064   ,KIT SERENO MORENO                                                                                   ,1.0,2.0
+316,WEB,MR20085   ,SET LOS COLORES DEL TE                                                                              ,1.0,0.0
+316,WEB,MR20127   ,KIT CHA CHA CHAI 6 LATAS                                                                            ,1.0,0.0
+316,WEB,MR20239   ,KIT OTOÑO 2022                                                                                      ,1.0,0.0
+316,WEB,MR20274   ,EMBELLECE-TE                                                                                        ,1.0,0.0
+316,SAE,MR21048   ,EXHIBIDOR BARRA BLANCO                                                                              ,1.0,2.0
+316,WEB,TE40013   ,LATA SAMPLE EUROTE BLANCO RUSIA                                                                     ,1.0,2.0
+316,SAE,TE40015   ,LATA SAMPLE EUROTE BORA BORA                                                                        ,1.0,2.0
+316,WEB,TE40023   ,LATA SAMPLE EUROTE CHERRY FESTIVAL                                                                  ,1.0,2.0
+316,WEB,TE40047   ,LATA SAMPLE EUROTE GENMAICHA                                                                        ,1.0,1.0
+316,WEB,TE40102   ,LATA SAMPLE EUROTE PU ERH CHAI TIBET                                                                ,1.0,2.0
+316,WEB,TE40118   ,LATA SAMPLE EUROTE ROOIBOS B. VAINILLA                                                              ,1.0,2.0
+316,WEB,TE40206   ,LATA SAMPLE EUROTE XOCOLATE                                                                         ,2.0,1.0
+316,SAE,TE40329   ,PILLOW MIST                                                                                         ,1.0,0.0
+316,WEB,TE41002   ,LATA MEDIANA EUROTE ARUBA                                                                           ,1.0,4.0
+316,WEB,TE41007   ,LATA MEDIANA EUROTE BLANCO COCO THAI                                                                ,3.0,10.0
+316,WEB,TE41008   ,LATA MEDIANA EUROTE BLANCO DURAZNO ORQUI                                                            ,1.0,6.0
+316,WEB,TE41020   ,LATA MEDIANA EUROTE CHABACANO                                                                       ,1.0,6.0
+316,SAE,TE41023   ,LATA MEDIANA EUROTE CHERRY FESTIVAL                                                                 ,5.0,6.0
+316,WEB,TE41036   ,LATA MEDIANA EUROTE DRAGON BLEND                                                                    ,1.0,4.0
+316,SAE,TE41044   ,LATA MEDIANA EUROTE FRESA KIWI                                                                      ,5.0,6.0
+316,WEB,TE41044   ,LATA MEDIANA EUROTE FRESA KIWI                                                                      ,1.0,6.0
+316,WEB,TE41045   ,LATA MEDIANA EUROTE FRUTA CARIBEÑA                                                                  ,1.0,6.0
+316,WEB,TE41049   ,LATA MEDIANA EUROTE GOJI BERRY                                                                      ,1.0,6.0
+316,SAE,TE41061   ,LATA MEDIANA EUROTE HONEY BEE                                                                       ,2.0,6.0
+316,WEB,TE41076   ,LATA MEDIANA EUROTE MANZANA ARANDANO                                                                ,1.0,6.0
+316,SAE,TE41077   ,LATA MEDIANA EUROTE MANZANILLA / LAVANDA                                                            ,7.0,15.0
+316,WEB,TE41077   ,LATA MEDIANA EUROTE MANZANILLA / LAVANDA                                                            ,1.0,15.0
+316,SAE,TE41079   ,LATA MEDIANA EUROTE MATCHA                                                                          ,20.0,30.0
+316,WEB,TE41079   ,LATA MEDIANA EUROTE MATCHA                                                                          ,1.0,30.0
+316,SAE,TE41083   ,LATA MEDIANA EUROTE MILKY ULONG                                                                     ,3.0,1.0
+316,SAE,TE41084   ,LATA MEDIANA EUROTE MORAS DE LA SELVA                                                               ,1.0,45.0
+316,WEB,TE41084   ,LATA MEDIANA EUROTE MORAS DE LA SELVA                                                               ,1.0,45.0
+316,WEB,TE41086   ,LATA MEDIANA EUROTE MUMBAI                                                                          ,1.0,6.0
+316,WEB,TE41090   ,LATA MEDIANA EUROTE PAI MU TAN                                                                      ,1.0,10.0
+316,WEB,TE41095   ,LATA MEDIANA EUROTE PONCHE DE GUAYABA                                                               ,1.0,10.0
+316,WEB,TE41104   ,LATA MEDIANA EUROTE PU ERH FRUTOS ROJOS                                                             ,1.0,10.0
+316,SAE,TE41114   ,LATA MEDIANA EUROTE RELAX                                                                           ,8.0,60.0
+316,WEB,TE41114   ,LATA MEDIANA EUROTE RELAX                                                                           ,1.0,60.0
+316,SAE,TE41118   ,LATA MEDIANA EUROTE ROOIBOS B. VAINILLA                                                             ,2.0,4.0
+316,WEB,TE41122   ,LATA MEDIANA EUROTE ROOIBOS CRANBERRY                                                               ,1.0,1.0
+316,WEB,TE41133   ,LATA MEDIANA EUROTE TANGO MANGO                                                                     ,1.0,15.0
+316,WEB,TE41136   ,LATA MEDIANA EUROTE TEMPLE OF HEAVEN                                                                ,1.0,6.0
+316,WEB,TE41146   ,LATA MEDIANA EUROTE VERDE CARIBE                                                                    ,1.0,4.0
+316,WEB,TE41149   ,LATA MEDIANA EUROTE YIN ZHEN                                                                        ,1.0,1.0
+316,WEB,TE41206   ,LATA MEDIANA EUROTE XOCOLATE                                                                        ,1.0,1.0
+316,WEB,TE41211   ,LATA MEDIANA EUROTE BERRY BLUE                                                                      ,1.0,0.0
+316,WEB,TE41217   ,LATA MEDIANA EUROTE BLUE TANGO                                                                      ,1.0,0.0
+316,SAE,TE41220   ,LATA MEDIANA EUROTE DETOX GREEN                                                                     ,4.0,0.0
+316,WEB,TE41226   ,LATA MEDIANA EUROTE VERDE PIÑA JENGIBRE                                                             ,1.0,0.0
+316,WEB,TE41236   ,LATA MEDIANA EUROTE SNOW CHAI                                                                       ,1.0,0.0
+316,WEB,TE41324   ,LATA MEDIANA EUROTE MOON M BLUE PILLOW                                                              ,2.0,0.0
+316,WEB,TE41325   ,LATA MEDIANA EUROTE MOON M SUNSET                                                                   ,1.0,0.0
+316,WEB,TE41326   ,LATA MEDIANA EUROTE MOON M PINK NIGHT                                                               ,1.0,0.0
+316,WEB,TE41328   ,LATA MEDIANA EUROTE MOON M MIL Y UNA NOC                                                            ,3.0,0.0
+316,WEB,TE41329   ,LATA MEDIANA EUROTE FRESH PILLOW                                                                    ,1.0,0.0
+316,SAE,TE41357   ,LATA MEDIANA EUROTE SENCHA FEST                                                                     ,2.0,0.0
+316,WEB,TE42001   ,BOLSA 100g EUROTE AMARETTO                                                                          ,1.0,15.0
+316,SAE,TE42003   ,BOLSA 100g EUROTE ASSAM                                                                             ,3.0,10.0
+316,SAE,TE42008   ,BOLSA 100g EUROTE BLANCO DURAZNO ORQUIDE                                                            ,3.0,6.0
+316,SAE,TE42010   ,BOLSA 100g EUROTE BLANCO ANIVERSARIO                                                                ,1.0,10.0
+316,SAE,TE42014   ,BOLSA 100g EUROTE BLUE EYES                                                                         ,9.0,20.0
+316,WEB,TE42014   ,BOLSA 100g EUROTE BLUE EYES                                                                         ,1.0,20.0
+316,SAE,TE42015   ,BOLSA 100g EUROTE BORA BORA                                                                         ,7.0,25.0
+316,SAE,TE42018   ,BOLSA 100g EUROTE CERO ESTRESS                                                                      ,2.0,6.0
+316,SAE,TE42020   ,BOLSA 100g EUROTE CHABACANO                                                                         ,2.0,20.0
+316,WEB,TE42020   ,BOLSA 100g EUROTE CHABACANO                                                                         ,1.0,20.0
+316,SAE,TE42025   ,BOLSA 100g EUROTE CHOCO MINT                                                                        ,1.0,6.0
+316,SAE,TE42029   ,BOLSA 100g EUROTE DARJEELING                                                                        ,1.0,10.0
+316,SAE,TE42031   ,BOLSA 100g EUROTE DATIL CITRUS                                                                      ,1.0,4.0
+316,SAE,TE42035   ,BOLSA 100g EUROTE DURAZNO                                                                           ,1.0,15.0
+316,WEB,TE42035   ,BOLSA 100g EUROTE DURAZNO                                                                           ,1.0,15.0
+316,SAE,TE42037   ,BOLSA 100g EUROTE EARL GREY                                                                         ,4.0,6.0
+316,SAE,TE42038   ,BOLSA 100g EUROTE ENGLISH BREAKFAST                                                                 ,10.0,10.0
+316,WEB,TE42038   ,BOLSA 100g EUROTE ENGLISH BREAKFAST                                                                 ,1.0,10.0
+316,SAE,TE42040   ,BOLSA 100g EUROTE FANTASIA TROPICAL                                                                 ,1.0,60.0
+316,WEB,TE42040   ,BOLSA 100g EUROTE FANTASIA TROPICAL                                                                 ,1.0,60.0
+316,SAE,TE42043   ,BOLSA 100g EUROTE FLORIDA FRUITS                                                                    ,7.0,15.0
+316,SAE,TE42044   ,BOLSA 100g EUROTE FRESA KIWI                                                                        ,27.0,45.0
+316,WEB,TE42044   ,BOLSA 100g EUROTE FRESA KIWI                                                                        ,1.0,45.0
+316,SAE,TE42045   ,BOLSA 100g EUROTE FRUTA CARIBEÑA                                                                    ,17.0,30.0
+316,WEB,TE42045   ,BOLSA 100g EUROTE FRUTA CARIBEÑA                                                                    ,1.0,30.0
+316,SAE,TE42046   ,BOLSA 100g EUROTE FRUTA DE LA PASION                                                                ,3.0,4.0
+316,SAE,TE42049   ,BOLSA 100g EUROTE GOJI BERRY                                                                        ,3.0,6.0
+316,SAE,TE42058   ,BOLSA 100g EUROTE GYOKURO JAPAN                                                                     ,1.0,0.0
+316,WEB,TE42058   ,BOLSA 100g EUROTE GYOKURO JAPAN                                                                     ,1.0,0.0
+316,SAE,TE42064   ,BOLSA 100g EUROTE HURRICANE                                                                         ,1.0,6.0
+316,SAE,TE42067   ,BOLSA 100g EUROTE JAZMIN                                                                            ,7.0,15.0
+316,WEB,TE42067   ,BOLSA 100g EUROTE JAZMIN                                                                            ,1.0,15.0
+316,SAE,TE42070   ,BOLSA 100g EUROTE JENGIBRE MANDARIN                                                                 ,21.0,10.0
+316,WEB,TE42070   ,BOLSA 100g EUROTE JENGIBRE MANDARIN                                                                 ,1.0,10.0
+316,SAE,TE42073   ,BOLSA 100g EUROTE MANGO TROPICAL                                                                    ,1.0,10.0
+316,WEB,TE42074   ,BOLSA 100g EUROTE MANILA                                                                            ,1.0,4.0
+316,SAE,TE42075   ,BOLSA 100g EUROTE MANZANA                                                                           ,10.0,30.0
+316,SAE,TE42076   ,BOLSA 100g EUROTE MANZANA ARANDANO                                                                  ,15.0,60.0
+316,SAE,TE42077   ,BOLSA 100g EUROTE MANZANILLA / LAVANDA                                                              ,6.0,15.0
+316,WEB,TE42077   ,BOLSA 100g EUROTE MANZANILLA / LAVANDA                                                              ,1.0,15.0
+316,SAE,TE42078   ,BOLSA 100g EUROTE MARACUYA                                                                          ,15.0,30.0
+316,WEB,TE42078   ,BOLSA 100g EUROTE MARACUYA                                                                          ,1.0,30.0
+316,SAE,TE42079   ,BOLSA 100g EUROTE MATCHA                                                                            ,17.0,15.0
+316,SAE,TE42081   ,BOLSA 100g EUROTE MEDITACION                                                                        ,1.0,4.0
+316,SAE,TE42082   ,BOLSA 100g EUROTE MENTA                                                                             ,9.0,30.0
+316,WEB,TE42082   ,BOLSA 100g EUROTE MENTA                                                                             ,1.0,30.0
+316,SAE,TE42084   ,BOLSA 100g EUROTE MORAS DE LA SELVA                                                                 ,45.0,70.0
+316,WEB,TE42084   ,BOLSA 100g EUROTE MORAS DE LA SELVA                                                                 ,2.0,70.0
+316,SAE,TE42085   ,BOLSA 100g EUROTE MOSCU                                                                             ,3.0,20.0
+316,SAE,TE42086   ,BOLSA 100g EUROTE MUMBAI                                                                            ,4.0,15.0
+316,SAE,TE42087   ,BOLSA 100g EUROTE OMAS GARDEN                                                                       ,7.0,45.0
+316,WEB,TE42087   ,BOLSA 100g EUROTE OMAS GARDEN                                                                       ,1.0,45.0
+316,SAE,TE42089   ,BOLSA 100g EUROTE ORIENTAL SPICE                                                                    ,18.0,20.0
+316,WEB,TE42092   ,BOLSA 100g EUROTE PAI MU TAN TORONJA                                                                ,1.0,4.0
+316,SAE,TE42093   ,BOLSA 100g EUROTE PAPANTLA                                                                          ,7.0,12.0
+316,WEB,TE42093   ,BOLSA 100g EUROTE PAPANTLA                                                                          ,1.0,12.0
+316,SAE,TE42095   ,BOLSA 100g EUROTE PONCHE DE GUAYABA                                                                 ,68.0,25.0
+316,WEB,TE42095   ,BOLSA 100g EUROTE PONCHE DE GUAYABA                                                                 ,1.0,25.0
+316,SAE,TE42098   ,BOLSA 100g EUROTE PASSION ORANGE                                                                    ,4.0,10.0
+316,SAE,TE42101   ,BOLSA 100g EUROTE PU ERH CITRUS                                                                     ,1.0,6.0
+316,SAE,TE42104   ,BOLSA 100g EUROTE PU ERH FRUTOS ROJOS                                                               ,18.0,15.0
+316,SAE,TE42110   ,BOLSA 100g EUROTE PU ERH NEPAL                                                                      ,1.0,25.0
+316,WEB,TE42111   ,BOLSA 100g EUROTE PU ERH TROPIC                                                                     ,1.0,30.0
+316,SAE,TE42113   ,BOLSA 100g EUROTE RASPBERRY DREAM                                                                   ,5.0,15.0
+316,SAE,TE42114   ,BOLSA 100g EUROTE RELAX                                                                             ,12.0,50.0
+316,SAE,TE42115   ,BOLSA 100g EUROTE ROOIBOS                                                                           ,4.0,15.0
+316,WEB,TE42115   ,BOLSA 100g EUROTE ROOIBOS                                                                           ,1.0,15.0
+316,SAE,TE42120   ,BOLSA 100g EUROTE ROOIBOS CHAI                                                                      ,1.0,15.0
+316,WEB,TE42120   ,BOLSA 100g EUROTE ROOIBOS CHAI                                                                      ,1.0,15.0
+316,SAE,TE42121   ,BOLSA 100g EUROTE ROOIBOS CHOCO PRALINE                                                             ,1.0,15.0
+316,SAE,TE42126   ,BOLSA 100g EUROTE SENCHA                                                                            ,5.0,20.0
+316,SAE,TE42128   ,BOLSA 100g EUROTE SENCHA GRANADA FRAMBUE                                                            ,1.0,10.0
+316,SAE,TE42130   ,BOLSA 100g EUROTE SENCHA PERA                                                                       ,2.0,2.0
+316,SAE,TE42133   ,BOLSA 100g EUROTE TANGO MANGO                                                                       ,3.0,30.0
+316,WEB,TE42133   ,BOLSA 100g EUROTE TANGO MANGO                                                                       ,1.0,30.0
+316,SAE,TE42135   ,BOLSA 100g EUROTE TEALLENNIUM                                                                       ,3.0,25.0
+316,SAE,TE42136   ,BOLSA 100g EUROTE TEMPLE OF HEAVEN                                                                  ,3.0,15.0
+316,SAE,TE42138   ,BOLSA 100g EUROTE TURQUIA                                                                           ,1.0,20.0
+316,SAE,TE42142   ,BOLSA 100g EUROTE VERDE CHAI                                                                        ,2.0,25.0
+316,SAE,TE42143   ,BOLSA 100g EUROTE VERDE CHAMPAGNE                                                                   ,4.0,20.0
+316,WEB,TE42143   ,BOLSA 100g EUROTE VERDE CHAMPAGNE                                                                   ,1.0,20.0
+316,SAE,TE42148   ,BOLSA 100g EUROTE VERDE VIOLETA                                                                     ,2.0,6.0
+316,SAE,TE42155   ,BOLSA 100g EUROTE  JAZMINE  LOVERS                                                                  ,1.0,2.0
+316,SAE,TE42156   ,BOLSA 100g EUROTE JASMINE LILY                                                                      ,1.0,1.0
+316,SAE,TE42159   ,BOLSA 100g EUROTE SWEETHEART                                                                        ,1.0,1.0
+316,SAE,TE42160   ,BOLSA 100g EUROTE XU RI DONG SHENG                                                                  ,1.0,1.0
+316,WEB,TE42161   ,BOLSA 100g EUROTE DRAGON BALL                                                                       ,1.0,0.0
+316,SAE,TE42218   ,BOLSA 100g EUROTE BLUE BUTTERFLY                                                                    ,2.0,0.0
+316,WEB,TE42219   ,BOLSA 100g EUROTE MENTA FRESH                                                                       ,1.0,0.0
+316,SAE,TE42222   ,BOLSA 100g EUROTE JENGIBRE LIMON                                                                    ,4.0,0.0
+316,WEB,TE42228   ,BOLSA 100g EUROTE MATCHA CEREMONIAL                                                                 ,1.0,0.0
+316,SAE,TE42233   ,BOLSA 100g EUROTE BLUE MATCHA                                                                       ,6.0,0.0
+316,SAE,TE42325   ,BOLSA 100g EUROTE MOON M SUNSET                                                                     ,3.0,0.0
+316,SAE,TE42327   ,BOLSA 100g EUROTE MOON M GOLDEN NIGHT                                                               ,2.0,0.0
+316,SAE,TE42328   ,BOLSA 100g EUROTE MOON M MIL Y UNA NOCHE                                                            ,5.0,0.0
+316,SAE,TE42349   ,BOLSA 100G EUROTE CARBON ACTIVADO                                                                   ,6.0,0.0
+316,WEB,TE42362   ,BOLSA 100g EUROTE ALICE GARDEN                                                                      ,1.0,0.0
+316,SAE,TE42363   ,BOLSA 100g EUROTE TROPICAL YLANG YLANG                                                              ,3.0,0.0
+316,SAE,TE43001   ,BOLSA 250g EUROTE AMARETTO                                                                          ,5.0,12.0
+316,SAE,TE43003   ,BOLSA 250g EUROTE ASSAM                                                                             ,2.0,12.0
+316,SAE,TE43007   ,BOLSA 250g EUROTE BLANCO COCO THAI                                                                  ,2.0,5.0
+316,SAE,TE43008   ,BOLSA 250g EUROTE BLANCO DURAZNO ORQUIDE                                                            ,17.0,1.0
+316,SAE,TE43014   ,BOLSA 250g EUROTE BLUE EYES                                                                         ,5.0,22.0
+316,SAE,TE43015   ,BOLSA 250g EUROTE BORA BORA                                                                         ,16.0,25.0
+316,SAE,TE43018   ,BOLSA 250g EUROTE CERO ESTRESS                                                                      ,3.0,4.0
+316,SAE,TE43020   ,BOLSA 250g EUROTE CHABACANO                                                                         ,2.0,50.0
+316,SAE,TE43021   ,BOLSA 250g EUROTE CHAI HERBAL                                                                       ,1.0,12.0
+316,SAE,TE43023   ,BOLSA 250g EUROTE CHERRY FESTIVAL                                                                   ,26.0,20.0
+316,SAE,TE43031   ,BOLSA 250g EUROTE DATIL CITRUS                                                                      ,1.0,5.0
+316,SAE,TE43035   ,BOLSA 250g EUROTE DURAZNO                                                                           ,2.0,15.0
+316,SAE,TE43036   ,BOLSA 250g EUROTE DRAGON BLEND                                                                      ,1.0,15.0
+316,SAE,TE43037   ,BOLSA 250g EUROTE EARL GREY                                                                         ,9.0,12.0
+316,SAE,TE43040   ,BOLSA 250g EUROTE FANTASIA TROPICAL                                                                 ,10.0,55.0
+316,WEB,TE43040   ,BOLSA 250g EUROTE FANTASIA TROPICAL                                                                 ,1.0,55.0
+316,SAE,TE43041   ,BOLSA 250g EUROTE FIREPLACE                                                                         ,6.0,25.0
+316,SAE,TE43042   ,BOLSA 250g EUROTE FIT & FUN                                                                         ,8.0,15.0
+316,SAE,TE43044   ,BOLSA 250g EUROTE FRESA KIWI                                                                        ,105.0,55.0
+316,WEB,TE43044   ,BOLSA 250g EUROTE FRESA KIWI                                                                        ,1.0,55.0
+316,SAE,TE43045   ,BOLSA 250g EUROTE FRUTA CARIBEÑA                                                                    ,35.0,30.0
+316,SAE,TE43046   ,BOLSA 250g EUROTE FRUTA DE LA PASION                                                                ,2.0,6.0
+316,SAE,TE43049   ,BOLSA 250g EUROTE GOJI BERRY                                                                        ,4.0,15.0
+316,SAE,TE43061   ,BOLSA 250g EUROTE HONEY BEE                                                                         ,10.0,6.0
+316,SAE,TE43066   ,BOLSA 250g EUROTE JAPAN GARDEN                                                                      ,1.0,6.0
+316,SAE,TE43067   ,BOLSA 250g EUROTE JAZMIN                                                                            ,14.0,20.0
+316,SAE,TE43070   ,BOLSA 250g EUROTE JENGIBRE MANDARIN                                                                 ,59.0,12.0
+316,WEB,TE43070   ,BOLSA 250g EUROTE JENGIBRE MANDARIN                                                                 ,1.0,12.0
+316,SAE,TE43072   ,BOLSA 250g EUROTE LONG JING                                                                         ,1.0,0.0
+316,SAE,TE43074   ,BOLSA 250g EUROTE MANILA                                                                            ,8.0,5.0
+316,WEB,TE43074   ,BOLSA 250g EUROTE MANILA                                                                            ,1.0,5.0
+316,SAE,TE43076   ,BOLSA 250g EUROTE MANZANA ARANDANO                                                                  ,30.0,40.0
+316,WEB,TE43076   ,BOLSA 250g EUROTE MANZANA ARANDANO                                                                  ,1.0,40.0
+316,SAE,TE43077   ,BOLSA 250g EUROTE MANZANILLA / LAVANDA                                                              ,18.0,10.0
+316,WEB,TE43077   ,BOLSA 250g EUROTE MANZANILLA / LAVANDA                                                              ,1.0,10.0
+316,SAE,TE43078   ,BOLSA 250g EUROTE MARACUYA                                                                          ,20.0,40.0
+316,SAE,TE43079   ,BOLSA 250g EUROTE MATCHA                                                                            ,9.0,12.0
+316,WEB,TE43079   ,BOLSA 250g EUROTE MATCHA                                                                            ,1.0,12.0
+316,SAE,TE43081   ,BOLSA 250g EUROTE MEDITACION                                                                        ,3.0,4.0
+316,SAE,TE43082   ,BOLSA 250g EUROTE MENTA                                                                             ,29.0,30.0
+316,SAE,TE43084   ,BOLSA 250g EUROTE MORAS DE LA SELVA                                                                 ,140.0,85.0
+316,WEB,TE43084   ,BOLSA 250g EUROTE MORAS DE LA SELVA                                                                 ,1.0,85.0
+316,SAE,TE43085   ,BOLSA 250g EUROTE MOSCU                                                                             ,1.0,20.0
+316,SAE,TE43086   ,BOLSA 250g EUROTE MUMBAI                                                                            ,8.0,15.0
+316,SAE,TE43087   ,BOLSA 250g EUROTE OMAS GARDEN                                                                       ,2.0,30.0
+316,SAE,TE43089   ,BOLSA 250g EUROTE ORIENTAL SPICE                                                                    ,22.0,25.0
+316,SAE,TE43093   ,BOLSA 250g EUROTE PAPANTLA                                                                          ,6.0,15.0
+316,SAE,TE43094   ,BOLSA 250g EUROTE PARIS                                                                             ,2.0,15.0
+316,SAE,TE43095   ,BOLSA 250g EUROTE PONCHE DE GUAYABA                                                                 ,59.0,45.0
+316,SAE,TE43098   ,BOLSA 250g EUROTE PASSION ORANGE                                                                    ,2.0,15.0
+316,SAE,TE43101   ,BOLSA 250g EUROTE PU ERH CITRUS                                                                     ,2.0,6.0
+316,SAE,TE43104   ,BOLSA 250g EUROTE PU ERH FRUTOS ROJOS                                                               ,4.0,15.0
+316,SAE,TE43107   ,BOLSA 250g EUROTE PU ERH MENTA                                                                      ,2.0,15.0
+316,SAE,TE43114   ,BOLSA 250g EUROTE RELAX                                                                             ,11.0,30.0
+316,WEB,TE43114   ,BOLSA 250g EUROTE RELAX                                                                             ,1.0,30.0
+316,SAE,TE43125   ,BOLSA 250g EUROTE ROOIBOS TIRAMISU                                                                  ,3.0,1.0
+316,SAE,TE43128   ,BOLSA 250g EUROTE SENCHA GRANADA FRAMBUE                                                            ,5.0,6.0
+316,SAE,TE43129   ,BOLSA 250g EUROTE SENCHA LIMON                                                                      ,2.0,20.0
+316,SAE,TE43133   ,BOLSA 250g EUROTE TANGO MANGO                                                                       ,7.0,25.0
+316,SAE,TE43137   ,BOLSA 250g EUROTE TENTACION DIVINA                                                                  ,5.0,20.0
+316,SAE,TE43138   ,BOLSA 250g EUROTE TURQUIA                                                                           ,6.0,15.0
+316,SAE,TE43143   ,BOLSA 250g EUROTE VERDE CHAMPAGNE                                                                   ,5.0,15.0
+316,WEB,TE43143   ,BOLSA 250g EUROTE VERDE CHAMPAGNE                                                                   ,1.0,15.0
+316,SAE,TE43145   ,BOLSA 250g EUROTE VERDE PIÑA BLUEBERRY                                                              ,2.0,20.0
+316,SAE,TE43146   ,BOLSA 250g EUROTE VERDE CARIBE                                                                      ,1.0,4.0
+316,SAE,TE43151   ,BOLSA 250g EUROTE ZURICH                                                                            ,3.0,20.0
+316,SAE,TE43161   ,BOLSA 250g EUROTE DRAGON BALL                                                                       ,1.0,0.0
+316,SAE,TE43216   ,BOLSA 250g EUROTE BLUE VELVET                                                                       ,2.0,0.0
+316,SAE,TE43218   ,BOLSA 250g EUROTE BLUE BUTTERFLY                                                                    ,1.0,0.0
+316,SAE,TE43220   ,BOLSA 250g EUROTE DETOX GREEN                                                                       ,1.0,0.0
+316,SAE,TE43222   ,BOLSA 250g EUROTE JENGIBRE LIMON                                                                    ,7.0,0.0
+316,SAE,TE43227   ,BOLSA 250g EUROTE HANAMI                                                                            ,2.0,0.0
+316,WEB,TE43324   ,BOLSA 250g EUROTE MOON M BLUE PILLOW                                                                ,1.0,0.0
+316,SAE,TE43327   ,BOLSA 250g EUROTE MOON M GOLDEN NIGHT                                                               ,3.0,0.0
+316,SAE,TE43328   ,BOLSA 250g EUROTE MOON M MIL Y UNA NOCHE                                                            ,5.0,0.0
+316,SAE,TE43351   ,BOLSA 250g EUROTE PINK CHAI                                                                         ,3.0,0.0
+316,SAE,TE43357   ,BOLSA 250g EUROTE SENCHA FEST                                                                       ,4.0,0.0
+316,SAE,TE43359   ,BOLSA 250g EUROTE QUIET NIGHT                                                                       ,1.0,0.0
+316,SAE,TE44001   ,BOLSA 500g EUROTE AMARETTO                                                                          ,2.0,1.0
+316,SAE,TE44003   ,BOLSA 500g EUROTE ASSAM                                                                             ,4.0,1.0
+316,SAE,TE44007   ,BOLSA 500g EUROTE BLANCO COCO THAI                                                                  ,1.0,2.0
+316,SAE,TE44009   ,BOLSA 500g EUROTE BLANCO FRESA IMPERIAL                                                             ,1.0,4.0
+316,SAE,TE44015   ,BOLSA 500g EUROTE BORA BORA                                                                         ,6.0,6.0
+316,SAE,TE44018   ,BOLSA 500g EUROTE CERO ESTRESS                                                                      ,2.0,6.0
+316,SAE,TE44023   ,BOLSA 500g EUROTE CHERRY FESTIVAL                                                                   ,4.0,6.0
+316,SAE,TE44029   ,BOLSA 500g EUROTE DARJEELING                                                                        ,1.0,3.0
+316,SAE,TE44037   ,BOLSA 500g EUROTE EARL GREY                                                                         ,5.0,2.0
+316,SAE,TE44038   ,BOLSA 500g EUROTE ENGLISH BREAKFAST                                                                 ,4.0,1.0
+316,SAE,TE44039   ,BOLSA 500g EUROTE EXOTIC CINNAMON                                                                   ,2.0,1.0
+316,SAE,TE44040   ,BOLSA 500g EUROTE FANTASIA TROPICAL                                                                 ,3.0,10.0
+316,SAE,TE44042   ,BOLSA 500g EUROTE FIT & FUN                                                                         ,2.0,2.0
+316,SAE,TE44044   ,BOLSA 500g EUROTE FRESA KIWI                                                                        ,40.0,6.0
+316,SAE,TE44045   ,BOLSA 500g EUROTE FRUTA CARIBEÑA                                                                    ,5.0,3.0
+316,SAE,TE44049   ,BOLSA 500g EUROTE GOJI BERRY                                                                        ,3.0,1.0
+316,SAE,TE44064   ,BOLSA 500g EUROTE HURRICANE                                                                         ,1.0,0.0
+316,SAE,TE44065   ,BOLSA 500g EUROTE ICEBREAKER                                                                        ,3.0,1.0
+316,SAE,TE44067   ,BOLSA 500g EUROTE JAZMIN                                                                            ,1.0,2.0
+316,SAE,TE44070   ,BOLSA 500g EUROTE JENGIBRE MANDARIN                                                                 ,6.0,1.0
+316,WEB,TE44070   ,BOLSA 500g EUROTE JENGIBRE MANDARIN                                                                 ,2.0,1.0
+316,SAE,TE44073   ,BOLSA 500g EUROTE MANGO TROPICAL                                                                    ,1.0,0.0
+316,SAE,TE44076   ,BOLSA 500g EUROTE MANZANA ARANDANO                                                                  ,24.0,5.0
+316,SAE,TE44078   ,BOLSA 500g EUROTE MARACUYA                                                                          ,6.0,6.0
+316,SAE,TE44079   ,BOLSA 500g EUROTE MATCHA                                                                            ,6.0,1.0
+316,SAE,TE44082   ,BOLSA 500g EUROTE MENTA                                                                             ,5.0,2.0
+316,SAE,TE44084   ,BOLSA 500g EUROTE MORAS DE LA SELVA                                                                 ,42.0,15.0
+316,WEB,TE44084   ,BOLSA 500g EUROTE MORAS DE LA SELVA                                                                 ,3.0,15.0
+316,SAE,TE44086   ,BOLSA 500g EUROTE MUMBAI                                                                            ,6.0,1.0
+316,SAE,TE44089   ,BOLSA 500g EUROTE ORIENTAL SPICE                                                                    ,4.0,4.0
+316,WEB,TE44089   ,BOLSA 500g EUROTE ORIENTAL SPICE                                                                    ,4.0,4.0
+316,SAE,TE44093   ,BOLSA 500g EUROTE PAPANTLA                                                                          ,2.0,1.0
+316,SAE,TE44095   ,BOLSA 500g EUROTE PONCHE DE GUAYABA                                                                 ,20.0,3.0
+316,WEB,TE44095   ,BOLSA 500g EUROTE PONCHE DE GUAYABA                                                                 ,2.0,3.0
+316,SAE,TE44098   ,BOLSA 500g EUROTE PASSION ORANGE                                                                    ,1.0,2.0
+316,SAE,TE44099   ,BOLSA 500g EUROTE PIÑA COLADA                                                                       ,5.0,1.0
+316,SAE,TE44102   ,BOLSA 500g EUROTE PU ERH CHAI TIBET                                                                 ,3.0,0.0
+316,SAE,TE44104   ,BOLSA 500g EUROTE PU ERH FRUTOS ROJOS                                                               ,3.0,1.0
+316,WEB,TE44104   ,BOLSA 500g EUROTE PU ERH FRUTOS ROJOS                                                               ,1.0,1.0
+316,SAE,TE44114   ,BOLSA 500g EUROTE RELAX                                                                             ,50.0,10.0
+316,SAE,TE44118   ,BOLSA 500g EUROTE ROOIBOS B. VAINILLA                                                               ,1.0,1.0
+316,SAE,TE44121   ,BOLSA 500g EUROTE ROOIBOS CHOCO PRALINE                                                             ,1.0,1.0
+316,SAE,TE44129   ,BOLSA 500g EUROTE SENCHA LIMON                                                                      ,1.0,1.0
+316,SAE,TE44130   ,BOLSA 500g EUROTE SENCHA PERA                                                                       ,1.0,0.0
+316,SAE,TE44133   ,BOLSA 500g EUROTE TANGO MANGO                                                                       ,2.0,2.0
+316,SAE,TE44143   ,BOLSA 500g EUROTE VERDE CHAMPAGNE                                                                   ,3.0,1.0
+316,WEB,TE44219   ,BOLSA 500g EUROTE MENTA FRESH                                                                       ,2.0,0.0
+316,WEB,TE44222   ,BOLSA 500g EUROTE JENGIBRE LIMON                                                                    ,1.0,0.0
+316,SAE,TE44327   ,BOLSA 500g EUROTE MOON M GOLDEN NIGHT                                                               ,1.0,0.0
+316,SAE,TE45000   ,BOLSA 1k EUROTE ABRIL EN MEXICO                                                                     ,1.0,2.0
+316,SAE,TE45015   ,BOLSA 1k EUROTE BORA BORA                                                                           ,11.0,6.0
+316,SAE,TE45021   ,BOLSA 1k EUROTE CHAI HERBAL                                                                         ,1.0,3.0
+316,SAE,TE45022   ,BOLSA 1k EUROTE CHERRY BANANA                                                                       ,4.0,4.0
+316,SAE,TE45023   ,BOLSA 1k EUROTE CHERRY FESTIVAL                                                                     ,21.0,6.0
+316,SAE,TE45037   ,BOLSA 1k EUROTE EARL GREY                                                                           ,3.0,2.0
+316,SAE,TE45038   ,BOLSA 1k EUROTE ENGLISH BREAKFAST                                                                   ,3.0,2.0
+316,SAE,TE45040   ,BOLSA 1k EUROTE FANTASIA TROPICAL                                                                   ,3.0,5.0
+316,SAE,TE45043   ,BOLSA 1k EUROTE FLORIDA FRUITS                                                                      ,1.0,2.0
+316,SAE,TE45044   ,BOLSA 1k EUROTE FRESA KIWI                                                                          ,45.0,10.0
+316,SAE,TE45045   ,BOLSA 1k EUROTE FRUTA CARIBEÑA                                                                      ,10.0,6.0
+316,SAE,TE45067   ,BOLSA 1k EUROTE JAZMIN                                                                              ,2.0,6.0
+316,SAE,TE45070   ,BOLSA 1k EUROTE JENGIBRE MANDARIN                                                                   ,16.0,5.0
+316,SAE,TE45074   ,BOLSA 1k EUROTE MANILA                                                                              ,2.0,1.0
+316,SAE,TE45075   ,BOLSA 1k EUROTE MANZANA                                                                             ,2.0,10.0
+316,SAE,TE45076   ,BOLSA 1k EUROTE MANZANA ARANDANO                                                                    ,1.0,10.0
+316,SAE,TE45078   ,BOLSA 1k EUROTE MARACUYA                                                                            ,13.0,5.0
+316,SAE,TE45081   ,BOLSA 1k EUROTE MEDITACION                                                                          ,2.0,0.0
+316,SAE,TE45084   ,BOLSA 1k EUROTE MORAS DE LA SELVA                                                                   ,84.0,20.0
+316,SAE,TE45089   ,BOLSA 1k EUROTE ORIENTAL SPICE                                                                      ,5.0,10.0
+316,SAE,TE45095   ,BOLSA 1k EUROTE PONCHE DE GUAYABA                                                                   ,3.0,4.0
+316,SAE,TE45099   ,BOLSA 1k EUROTE PIÑA COLADA                                                                         ,2.0,2.0
+316,SAE,TE45102   ,BOLSA 1k EUROTE PU ERH CHAI TIBET                                                                   ,1.0,1.0
+316,SAE,TE45104   ,BOLSA 1k EUROTE PU ERH FRUTOS ROJOS                                                                 ,15.0,3.0
+316,SAE,TE45110   ,BOLSA 1k EUROTE PU ERH NEPAL                                                                        ,1.0,1.0
+316,SAE,TE45126   ,BOLSA 1k EUROTE SENCHA                                                                              ,5.0,2.0
+316,SAE,TE45133   ,BOLSA 1k EUROTE TANGO MANGO                                                                         ,5.0,2.0
+316,SAE,TE45136   ,BOLSA 1k EUROTE TEMPLE OF HEAVEN                                                                    ,2.0,5.0
+316,SAE,TE45143   ,BOLSA 1k EUROTE VERDE CHAMPAGNE                                                                     ,8.0,1.0
+316,SAE,TE45151   ,BOLSA 1k EUROTE ZURICH                                                                              ,1.0,2.0
+316,SAE,TE45220   ,BOLSA 1k EUROTE DETOX GREEN                                                                         ,2.0,0.0
+316,SAE,TE45328   ,BOLSA 1k EUROTE MOON M MIL Y UNA NOCHES                                                             ,1.0,0.0
+316,SAE,TS50011   ,CAJA 50 TEANGLE VERDE CHAMPAGNE                                                                     ,18.0,3.0
+316,SAE,TS50013   ,CAJA 50 TEANGLE ENGLISH BREAKFAST                                                                   ,8.0,3.0
+316,SAE,TS50014   ,CAJA 50 TEANGLE EARL GREY                                                                           ,9.0,3.0
+316,SAE,TS50016   ,CAJA 50 TEANGLE MANZANILLA LAVANDA                                                                  ,14.0,3.0
+316,SAE,TS50017   ,CAJA 50 TEANGLE RELAX                                                                               ,19.0,3.0
+316,SAE,TS50019   ,CAJA 50 TEANGLE PU ERH FRUTOS ROJOS                                                                 ,15.0,3.0
+316,SAE,TS50020   ,CAJA 50 TEANGLE FRESA KIWI                                                                          ,8.0,3.0
+316,SAE,TS50021   ,CAJA 50 TEANGLE MORAS DE LA SELVA                                                                   ,9.0,3.0
+316,SAE,TS50022   ,CAJA 50 TEANGLE FRUTA CARIBEÑA                                                                      ,2.0,3.0
+316,SAE,TS50024   ,CAJA 48 TEANGLE SURTIDO TEANGLE 1 (TE)                                                              ,1.0,3.0
+316,WEB,TS50056   ,LATA 15 STICKS MATCHA LOVER                                                                         ,2.0,0.0
+316,WEB,TS51017   ,LATA 20 PZ. TEANGLE RELAX                                                                           ,2.0,3.0
+316,WEB,TS51022   ,LATA 20 PZ. TEANGLE FRUTA CARIBEÑA                                                                  ,1.0,3.0
+316,WEB,TS51023   ,LATA 20 PZ. TEANGLE CERO ESTRESS                                                                    ,1.0,3.0
+316,WEB,TS51031   ,300 gr POLVOS EURO TE MASALA CHAI                                                                   ,1.0,0.0
+316,SAE,TS51061   ,CAJA 15 PZASEURO TE MENTA FRESH                                                                     ,1.0,0.0
+316,SAE,TS51063   ,CAJA 15 PZASEURO TE PU ERH FRUTOS ROJOS                                                             ,1.0,0.0
+316,SAE,TS51067   ,CAJA 15 PZAS EURO TE  RELAX                                                                         ,11.0,0.0
+316,SAE,TS51069   ,CAJA 15 PZAS EURO TE  FRESA KIWI                                                                    ,1.0,0.0
+316,SAE,TS51070   ,CAJA 15 PZAS EURO TE  BERRY CABERNET                                                                ,2.0,0.0
+316,WEB,TS51072   ,LATA 20 PZ. TEANGLE JENGIBRE LIMON                                                                  ,1.0,0.0
+316,WEB,TS51073   ,LATA 20 PZ. TEANGLE MARACUYA                                                                        ,1.0,0.0
+316,WEB,TS51093   ,CAJA 15 PZAS EURO TE BOLSITA TISANA SURT                                                            ,1.0,0.0
+316,SAE,TS52010   ,BOLSA 50 TEANGLE SENCHA                                                                             ,1.0,3.0
+316,WEB,TS52011   ,BOLSA 50 TEANGLE VERDE CHAMPAGNE                                                                    ,1.0,3.0
+316,SAE,TS52012   ,BOLSA 50 TEANGLE MENTA                                                                              ,4.0,3.0
+316,SAE,TS52014   ,BOLSA 50 TEANGLE EARL GREY                                                                          ,2.0,3.0
+316,WEB,TS52014   ,BOLSA 50 TEANGLE EARL GREY                                                                          ,1.0,3.0
+316,SAE,TS52016   ,BOLSA 50 TEANGLE MANZANILLA LAVANDA                                                                 ,4.0,3.0
+316,WEB,TS52016   ,BOLSA 50 TEANGLE MANZANILLA LAVANDA                                                                 ,1.0,3.0
+316,SAE,TS52017   ,BOLSA 50 TEANGLE RELAX                                                                              ,5.0,3.0
+316,WEB,TS52020   ,BOLSA 50 TEANGLE FRESA KIWI                                                                         ,1.0,3.0
+316,WEB,TS52021   ,BOLSA 50 TEANGLE MORAS DE LA SELVA                                                                  ,1.0,3.0
+316,WEB,TS52022   ,BOLSA 50 TEANGLE FRUTA CARIBEÑA                                                                     ,1.0,3.0
+316,SAE,TS52023   ,BOLSA 50 TEANGLE CERO ESTRESS                                                                       ,2.0,3.0
+316,SAE,TS52031   ,1 kg POLVOS EURO TE MASALA CHAI                                                                     ,348.0,290.0
+316,SAE,TS52032   ,1 kg POLVOS EURO TE MENTA                                                                           ,15.0,18.0
+316,SAE,TS52036   ,1 kg POLVOS EURO TE MASALA MANZANA                                                                  ,1.0,33.0
+316,SAE,TS52037   ,1 kg POLVOS EURO TE MATCHA                                                                          ,235.0,90.0
+316,WEB,TS52037   ,1 kg POLVOS EURO TE MATCHA                                                                          ,6.0,90.0
+316,SAE,TS52041   ,1 kg POLVOS EURO TE BASE NEUTRA                                                                     ,14.0,36.0
+316,SAE,TS52059   ,BOLSA 50 EURO TE BOLSITA SENCHA                                                                     ,4.0,0.0
+316,WEB,TS52059   ,BOLSA 50 EURO TE BOLSITA SENCHA                                                                     ,1.0,0.0
+316,WEB,TS52060   ,BOLSA 50 EURO TE BOLSITA MANZANILLA                                                                 ,1.0,0.0
+316,WEB,TS52062   ,BOLSA 50 EURO TE BOLSITA JENGIBRE LIMON                                                             ,1.0,0.0
+316,SAE,TS52063   ,BOLSA 50 EURO TE BOLSITA PU ERH FRUTOS R                                                            ,1.0,0.0
+316,WEB,TS52063   ,BOLSA 50 EURO TE BOLSITA PU ERH FRUTOS R                                                            ,1.0,0.0
+316,SAE,TS52064   ,BOLSA 50 EURO TE BOLSITA CHAI                                                                       ,4.0,0.0
+316,WEB,TS52064   ,BOLSA 50 EURO TE BOLSITA CHAI                                                                       ,1.0,0.0
+316,WEB,TS52066   ,BOLSA 50 EURO TE BOLSITA EARL GREY                                                                  ,1.0,0.0
+316,SAE,TS52067   ,BOLSA 50 EURO TE BOLSITA RELAX                                                                      ,5.0,0.0
+316,SAE,TS52070   ,BOLSA 50 EURO TE BOLSITA BERRY CABERNET                                                             ,1.0,0.0
+316,SAE,TS52075   ,BOLSA 50 TEANGLE GINGER POWER                                                                       ,1.0,0.0
+316,SAE,TS53012   ,BOLSA 100 TEANGLE MENTA                                                                             ,4.0,3.0
+316,SAE,TS53016   ,BOLSA 100 TEANGLE MANZANILLA LAVANDA                                                                ,7.0,3.0
+316,SAE,TS53021   ,BOLSA 100 TEANGLE MORAS DE LA SELVA                                                                 ,4.0,3.0
+316,SAE,TS53053   ,BOLSA 500g EUROTE LECHE DORADA                                                                      ,1.0,0.0
+316,SAE,TS53058   ,BOLSA 100 EURO TE BOLSITA ENGLISH BREAKF                                                            ,22.0,0.0
+316,SAE,TS53059   ,BOLSA 100 EURO TE BOLSITA SENCHA                                                                    ,1.0,0.0
+316,SAE,TS53060   ,BOLSA 100 EURO TE BOLSITA MANZANILLA                                                                ,47.0,0.0
+316,SAE,TS53061   ,BOLSA 100 EURO TE BOLSITA MENTA FRESH                                                               ,22.0,0.0
+316,SAE,TS53062   ,BOLSA 100 EURO TE BOLSITA JENGIBRE LIMON                                                            ,3.0,0.0
+316,SAE,TS53063   ,BOLSA 100 EURO TE BOLSITA PU ERH FRUTOS                                                             ,22.0,0.0
+316,SAE,TS53064   ,BOLSA 100 EURO TE BOLSITA CHAI                                                                      ,1.0,0.0
+316,SAE,TS53065   ,BOLSA 100 EURO TE BOLSITA JAZMIN                                                                    ,22.0,0.0
+316,SAE,TS53066   ,BOLSA 100 EURO TE BOLSITA EARL GREY                                                                 ,22.0,0.0
+316,SAE,TS53067   ,BOLSA 100 EURO TE BOLSITA RELAX                                                                     ,22.0,0.0
+316,SAE,TS53068   ,BOLSA 100 EURO TE BOLSITA MANZANA INVERN                                                            ,22.0,0.0
+316,SAE,TS53069   ,BOLSA 100 EURO TE BOLSITA FRESA KIWI                                                                ,25.0,0.0
+316,SAE,TS53077   ,BOLSA 100 EURO TE BOLSITA SURTIDO                                                                   ,12.0,0.0
+316,WEB,TS53077   ,BOLSA 100 EURO TE BOLSITA SURTIDO                                                                   ,1.0,0.0
